@@ -1,0 +1,8 @@
+{
+  "name": "p20-layerselect",
+  "version": "0.0.1",
+  "description": "Companion module to control PixelFlow P20 switcher",
+  "main": "index.js",
+  "author": "jeyanbenererben",
+  "license": "MIT"
+}
