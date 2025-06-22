@@ -1,0 +1,14 @@
+{
+  "name": "companion-p20-layerselect",
+  "version": "0.0.1",
+  "description": "Companion module to control PixelFlow P20 switcher",
+  "author": "jeyanbenererben",
+  "main": "main.js",
+  "scripts": {},
+  "companion": {
+    "type": "module",
+    "role": "control",
+    "upgradeScripts": [],
+    "panels": []
+  }
+}
