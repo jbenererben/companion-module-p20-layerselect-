@@ -1,5 +1,5 @@
 {
-  "name": "p20-layerselect",
+  "name": "companion-module-p20-layerselect",
   "version": "0.0.1",
   "description": "Companion module to control PixelFlow P20 switcher",
   "main": "index.js",
